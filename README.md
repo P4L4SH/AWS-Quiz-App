@@ -3,9 +3,12 @@
 Welcome to my **Quiz App**—a project designed to showcase the power of **cloud computing** and modern web development. This application leverages **AWS services** to deliver a secure, scalable, and seamless experience while utilizing the latest frontend technologies for a polished interface.  
 
 ### 🌐 **Live Demo**  
-Email - superpalash1@gmail.com
-Password - 123456789
 Experience the app live here: [Quiz App](https://main.d1fustll4gbj13.amplifyapp.com)  
+
+#### 🧑‍💻 Test Credentials  
+Use the following credentials to log in and explore:  
+- **Email**: `superpalash1@gmail.com`  
+- **Password**: `123456789`  
 
 ---
 
